@@ -30,9 +30,29 @@ At **Desapphire**, we believe that trust should be a protocol, not a promise. Ou
 
 ### 🏘️ [Digiverify](https://github.com/Desapphire/Digiverify)
 **The Future of Trustless Land Registry & Verification.**
-Digiverify is a comprehensive, blockchain-powered platform designed for the secure registration, verification, and sale of land assets.
+Digiverify is a blockchain-powered platform for secure registration, verification, and sale of land assets.
 - **Core Stacks**: Node.js, React, Ethereum (ERC-721), IPFS.
-- **Key Feature**: Multi-signature sale workflows and digital asset tokenization.
+
+### 🧠 [Mind-Shield+](https://github.com/Desapphire/Mind-Shield-Plus)
+**Intelligent Cognitive Load & Wellness Monitor.**
+Mind-Shield+ monitors behavioral interaction patterns in real-time to estimate cognitive load, predict fatigue, and monitor posture.
+- **Core Stacks**: Python, TensorFlow, OpenCV, Electron.
+
+### 🛡️ [NetScan IDS](https://github.com/Desapphire/NetScan)
+**Near Real-time Metadata-only NIDS.**
+A specialized Network Intrusion Detection System for large-scale campus networks that combines rule-based logic with unsupervised ML and Google Gemini for semantic classification.
+- **Core Stacks**: Python, ML, Google Gemini API, WebSockets.
+
+### 📊 [Trueview](https://github.com/Desapphire/TrueView)
+**Social Media Data Collection & NLP Pipeline.**
+Sentiment analysis system designed to extract textual data from Reddit, process it through NLP models, and visualize emotional trends.
+- **Core Stacks**: Python, NLTK/Spacy, Reddit API (PRAW).
+
+### 🌐 [Nexora](https://github.com/Desapphire/Nexora)
+**Modern Social Media Platform with AI Features.**
+A feature-rich social platform with OCR text extraction, GridFS-based large file management, and real-time engagement analytics.
+- **Core Stacks**: React, Node.js, MongoDB (GridFS), Tesseract.js, TailwindCSS.
+- **Key Feature**: Native OCR integration and multi-format file support.
 
 ---
 
@@ -41,9 +61,11 @@ Digiverify is a comprehensive, blockchain-powered platform designed for the secu
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </div>
 
 ---
