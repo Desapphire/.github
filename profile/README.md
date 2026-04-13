@@ -3,7 +3,8 @@
   
   <br />
 
-  <h1><i>// CORE_SYSTEM: DESAPPHIRE</i></h1>
+  <img src="../assets/cyber_glitch.svg" width="80%" alt="Desapphire Glitch Header" />
+  
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Engineers+of+Trustless+Infrastructure;Building+Next-Gen+Decentralized+Ecosystems;Security+Fixed+into+the+Protocol" alt="Typing Tagline" />
   </div>
@@ -16,12 +17,16 @@
 
 <br />
 
+<img src="../assets/scanline.svg" width="100%" />
+
+<br />
+
 ## ◈ SYSTEM_MODULES // PROJECTS
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏘️ <a href="https://github.com/Desapphire/Digiverify">DIGIVERIFY</a></h3>
+      <h3>⟦ 🏘️ <a href="https://github.com/Desapphire/Digiverify">DIGIVERIFY</a> ⟧</h3>
       <p><i>The Future of Trustless Land Registry & Verification.</i></p>
       <code>STACK: NODE.JS / REACT / ETHEREUM</code>
       <ul>
@@ -30,27 +35,27 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Desapphire/Mind-Shield-Plus">MIND-SHIELD+</a></h3>
+      <h3>⟦ 🧠 <a href="https://github.com/Desapphire/MInd_Shield">MIND-SHIELD+</a> ⟧</h3>
       <p><i>Intelligent Cognitive Load & Wellness Monitor.</i></p>
-      <code>STACK: PYTHON / TF / OPENCV / ELECTRON</code>
+      <code>STACK: SCKIT-LEARN / MEDIAPIPE / OPENCV / TKINTER</code>
       <ul>
         <li>Real-time Fatigue Prediction</li>
-        <li>Postural Monitoring</li>
+        <li>Pose & Postural Monitoring</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Desapphire/NetScan">NETSCAN IDS</a></h3>
+      <h3>⟦ 🛡️ <a href="https://github.com/Desapphire/netscan">NETSCAN IDS</a> ⟧</h3>
       <p><i>Near Real-time Metadata-only NIDS.</i></p>
-      <code>STACK: PYTHON / GEMINI / WEBSOCKETS</code>
+      <code>STACK: SCAPY / FASTAPI / SQLALCHEMY / GEMINI</code>
       <ul>
-        <li>Unsupervised ML Anomaly Detection</li>
-        <li>Automatic Gemini Classification</li>
+        <li>Rule-based + ML Hybrid Detection</li>
+        <li>Privacy-First Header Analysis</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/Desapphire/TrueView">TRUEVIEW</a></h3>
+      <h3>⟦ 📊 <a href="https://github.com/Desapphire/TrueView">TRUEVIEW</a> ⟧</h3>
       <p><i>Social Media Sentiment & NLP Pipeline.</i></p>
       <code>STACK: PYTHON / NLTK / REDDIT_API</code>
       <ul>
@@ -61,16 +66,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/Desapphire/Nexora">NEXORA</a></h3>
+      <h3>⟦ 🌐 <a href="https://github.com/Desapphire/Nexora">NEXORA</a> ⟧</h3>
       <p><i>Modern Social Media with AI.</i></p>
-      <code>STACK: REACT / NODE / MONGODB / OCR</code>
+      <code>STACK: REACT 19 / VITE / REDUX / TESSERACT.JS</code>
       <ul>
-        <li>Tesseract.js OCR Integration</li>
-        <li>GridFS Large File Management</li>
+        <li>Native OCR Text Extraction</li>
+        <li>Real-time Engagement Analytics</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 [PENDING]</h3>
+      <h3>⟦ 📡 [PENDING] ⟧</h3>
       <p><i>Awaiting new system initialization...</i></p>
       <code>READY TO SCALE</code>
       <ul>
@@ -98,14 +103,20 @@
   <img src="https://img.shields.io/badge/Node.js-313131?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/React-313131?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Python-313131?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/TensorFlow-313131?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-313131?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/OpenCV-313131?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
   <img src="https://img.shields.io/badge/Google_Gemini-313131?style=for-the-badge&logo=google&logoColor=8E75B2" />
   <img src="https://img.shields.io/badge/Ethereum-313131?style=for-the-badge&logo=ethereum&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-313131?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Tailwind-313131?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/FastAPI-313131?style=for-the-badge&logo=fastapi&logoColor=05998B" />
+  <img src="https://img.shields.io/badge/SQLite-313131?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+  <img src="https://img.shields.io/badge/Vite-313131?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/Redux-313131?style=for-the-badge&logo=redux&logoColor=764ABC" />
+  <img src="https://img.shields.io/badge/Mongoose-313131?style=for-the-badge&logo=mongoose&logoColor=880000" />
 </div>
 
 <br />
+
+<img src="../assets/scanline.svg" width="100%" />
 
 ## ◈ ACTIVITY // GRID_SNAKE
 

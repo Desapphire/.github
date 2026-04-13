@@ -1,0 +1,35 @@
+<svg width="600" height="80" viewBox="0 0 600 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes glitch {
+      0% { clip-path: inset(40% 0 61% 0); transform: translate(-10px, -5px); }
+      10% { clip-path: inset(92% 0 1% 0); transform: translate(10px, 5px); }
+      20% { clip-path: inset(25% 0 58% 0); transform: translate(-10px, 5px); }
+      30% { clip-path: inset(75% 0 7% 0); transform: translate(10px, -5px); }
+      40% { clip-path: inset(54% 0 7% 0); transform: translate(-10px, 5px); }
+      50% { clip-path: inset(14% 0 61% 0); transform: translate(10px, -5px); }
+      60% { clip-path: inset(83% 0 7% 0); transform: translate(-10px, 5px); }
+      70% { clip-path: inset(31% 0 58% 0); transform: translate(10px, -5px); }
+      80% { clip-path: inset(57% 0 25% 0); transform: translate(-10px, 5px); }
+      90% { clip-path: inset(14% 0 75% 0); transform: translate(10px, -5px); }
+      100% { clip-path: inset(40% 0 61% 0); transform: translate(-10px, -5px); }
+    }
+    .text { 
+      font-family: 'Courier New', monospace; 
+      font-weight: 900; 
+      font-size: 54px; 
+      text-transform: uppercase;
+      fill: #58a6ff;
+    }
+    .glitch-layer {
+      animation: glitch 1.5s infinite linear alternate-reverse;
+      filter: drop-shadow(0 0 5px #58a6ff);
+    }
+    .red { fill: #ff0000; opacity: 0.5; transform: translate(2px, 0); }
+    .blue { fill: #00ffff; opacity: 0.5; transform: translate(-2px, 0); }
+  </style>
+  <g>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text red">DESAPPHIRE</text>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text blue">DESAPPHIRE</text>
+    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text glitch-layer">DESAPPHIRE</text>
+  </g>
+</svg>
