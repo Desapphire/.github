@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=200&color=00ffbc&center=true&vCenter=true&width=600&lines=%5B+WAIT+%5D+INITIALIZING+SYSTEM_CORE...;%5B+OK+%5D+AUTHENTICATING+BIOMETRICS...;%5B+OK+%5D+ESTABLISHING+NEURAL+LINK...;%5B+DONE+%5D+ACCESS+GRANTED+TO+DESAPPHIRE_OS" alt="Boot Sequence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=200&color=00ffbc&center=true&vCenter=true&width=800&lines=%5B+WAIT+%5D+INITIALIZING+SYSTEM_CORE...;%5B+OK+%5D+AUTHENTICATING+BIOMETRICS...;%5B+OK+%5D+ESTABLISHING+NEURAL+LINK...;%5B+DONE+%5D+ACCESS+GRANTED+TO+DESAPPHIRE_OS" alt="Boot Sequence" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
   <img src="../assets/cyber_glitch.svg" width="80%" alt="Desapphire Glitch Header" />
   
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Engineers+of+Trustless+Infrastructure;Building+Next-Gen+Decentralized+Ecosystems;Security+Fixed+into+the+Protocol" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Engineers+of+Trustless+Infrastructure;Building+Next-Gen+Decentralized+Ecosystems;Security+Fixed+into+the+Protocol" alt="Typing Tagline" />
   </div>
 
   <p>
