@@ -4,7 +4,9 @@
   <br />
 
   <h1><i>// CORE_SYSTEM: DESAPPHIRE</i></h1>
-  <h3>「 Engineers of Trustless Infrastructure 」</h3>
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Engineers+of+Trustless+Infrastructure;Building+Next-Gen+Decentralized+Ecosystems;Security+Fixed+into+the+Protocol" alt="Typing Tagline" />
+  </div>
 
   <p>
     <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ffbc?style=for-the-badge&logoColor=000" />
@@ -101,6 +103,14 @@
   <img src="https://img.shields.io/badge/Ethereum-313131?style=for-the-badge&logo=ethereum&logoColor=fff" />
   <img src="https://img.shields.io/badge/MongoDB-313131?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Tailwind-313131?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+</div>
+
+<br />
+
+## ◈ ACTIVITY // GRID_SNAKE
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Desapphire/.github/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 <br />
