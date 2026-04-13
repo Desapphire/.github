@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=200&color=00ffbc&center=true&vCenter=true&width=600&lines=%5B+WAIT+%5D+INITIALIZING+SYSTEM_CORE...;%5B+OK+%5D+AUTHENTICATING+BIOMETRICS...;%5B+OK+%5D+ESTABLISHING+NEURAL+LINK...;%5B+DONE+%5D+ACCESS+GRANTED+TO+DESAPPHIRE_OS" alt="Boot Sequence" />
+</div>
+
+<div align="center">
   <img src="../assets/desapphire_banner.png" width="100%" alt="Desapphire Banner" />
   
   <br />
@@ -88,7 +92,13 @@
 
 <br />
 
-## ◈ INTELLIGENCE // ANALYTICS
+## ◈ INTELLIGENCE // TERMINAL_METRICS
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Desapphire/.github/main/github-metrics.svg" width="100%" alt="Terminal Metrics" />
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Desapphire&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Stats" />
@@ -129,15 +139,29 @@
 ---
 
 <div align="center">
-  <h3>// CONNECT_ESTABLISHED</h3>
-  <p>Exploring the frontiers of decentralized tech.</p>
-  <a href="mailto:contact@desapphire.com">
-    <img src="https://img.shields.io/badge/MAIL_SERVER-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <h3>// ROOT_DIRECTORY_LISTING</h3>
+  <br />
+  <table width="60%">
+    <tr>
+      <td align="left"><code>drwxr-xr-x</code></td>
+      <td align="left"><code>user</code></td>
+      <td align="left"><code><a href="https://github.com/Desapphire">projects/</a></code></td>
+    </tr>
+    <tr>
+      <td align="left"><code>-rw-r--r--</code></td>
+      <td align="left"><code>root</code></td>
+      <td align="left"><code><a href="mailto:contact@desapphire.com">contact_us.log</a></code></td>
+    </tr>
+    <tr>
+      <td align="left"><code>drwx------</code></td>
+      <td align="left"><code>admin</code></td>
+      <td align="left"><code><a href="https://github.com/Desapphire">neural_gate/</a></code></td>
+    </tr>
+  </table>
 </div>
 
 <br />
 
 <div align="center">
-  <code>DESAPPHIRE_OS v1.0.4 // REGION: GLOBAL_WEST // LATENCY: 22ms</code>
+  <code>DESAPPHIRE_OS [BUILD 1.0.9] // KERNEL: TRUSTLESS_CORE // UPTIME: 99.9%</code>
 </div>
