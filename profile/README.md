@@ -3,91 +3,120 @@
   
   <br />
 
-  # 💎 DESAPPHIRE
-  ### *Engineers of Trustless Infrastructure*
+  <h1><i>// CORE_SYSTEM: DESAPPHIRE</i></h1>
+  <h3>「 Engineers of Trustless Infrastructure 」</h3>
 
-  [![License](https://img.shields.io/badge/license-Proprietary-blue.svg)](LICENSE)
-  [![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/Desapphire)
-  [![Powered By](https://img.shields.io/badge/Powered%20By-Blockchain-cyan.svg)](https://ethereum.org)
-
-  ---
-
-  **Defining the next generation of decentralized ecosystems, secure verification systems, and immutable registries.**
-
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ffbc?style=for-the-badge&logoColor=000" />
+    <img src="https://img.shields.io/badge/AUTH-VERIFIED-58a6ff?style=for-the-badge&logoColor=fff" />
+  </p>
 </div>
 
-## 🌐 Mission & Vision
+<br />
 
-At **Desapphire**, we believe that trust should be a protocol, not a promise. Our mission is to build robust, scalable, and decentralized infrastructure that eliminates middle-men and empowers users with verifiable ownership.
+## ◈ SYSTEM_MODULES // PROJECTS
 
-- **Immutable by Design**: Leveraging blockchain for permanent, tamper-proof records.
-- **Security First**: Implementing multi-stakeholder signature workflows and ASBA-style financial securitization.
-- **Transparency**: Open-source principles applied to critical infrastructure (where applicable).
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏘️ <a href="https://github.com/Desapphire/Digiverify">DIGIVERIFY</a></h3>
+      <p><i>The Future of Trustless Land Registry & Verification.</i></p>
+      <code>STACK: NODE.JS / REACT / ETHEREUM</code>
+      <ul>
+        <li>NFT-based Ownership</li>
+        <li>Multi-sig Workflows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/Desapphire/Mind-Shield-Plus">MIND-SHIELD+</a></h3>
+      <p><i>Intelligent Cognitive Load & Wellness Monitor.</i></p>
+      <code>STACK: PYTHON / TF / OPENCV / ELECTRON</code>
+      <ul>
+        <li>Real-time Fatigue Prediction</li>
+        <li>Postural Monitoring</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Desapphire/NetScan">NETSCAN IDS</a></h3>
+      <p><i>Near Real-time Metadata-only NIDS.</i></p>
+      <code>STACK: PYTHON / GEMINI / WEBSOCKETS</code>
+      <ul>
+        <li>Unsupervised ML Anomaly Detection</li>
+        <li>Automatic Gemini Classification</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Desapphire/TrueView">TRUEVIEW</a></h3>
+      <p><i>Social Media Sentiment & NLP Pipeline.</i></p>
+      <code>STACK: PYTHON / NLTK / REDDIT_API</code>
+      <ul>
+        <li>Emotional Trend Visualization</li>
+        <li>Real-time Social Tracking</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/Desapphire/Nexora">NEXORA</a></h3>
+      <p><i>Modern Social Media with AI.</i></p>
+      <code>STACK: REACT / NODE / MONGODB / OCR</code>
+      <ul>
+        <li>Tesseract.js OCR Integration</li>
+        <li>GridFS Large File Management</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 [PENDING]</h3>
+      <p><i>Awaiting new system initialization...</i></p>
+      <code>READY TO SCALE</code>
+      <ul>
+        <li>Autonomous Agents</li>
+        <li>Edge Intelligence</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-## 🚀 Flagship Projects
-
-### 🏘️ [Digiverify](https://github.com/Desapphire/Digiverify)
-**The Future of Trustless Land Registry & Verification.**
-Digiverify is a blockchain-powered platform for secure registration, verification, and sale of land assets.
-- **Core Stacks**: Node.js, React, Ethereum (ERC-721), IPFS.
-
-### 🧠 [Mind-Shield+](https://github.com/Desapphire/Mind-Shield-Plus)
-**Intelligent Cognitive Load & Wellness Monitor.**
-Mind-Shield+ monitors behavioral interaction patterns in real-time to estimate cognitive load, predict fatigue, and monitor posture.
-- **Core Stacks**: Python, TensorFlow, OpenCV, Electron.
-
-### 🛡️ [NetScan IDS](https://github.com/Desapphire/NetScan)
-**Near Real-time Metadata-only NIDS.**
-A specialized Network Intrusion Detection System for large-scale campus networks that combines rule-based logic with unsupervised ML and Google Gemini for semantic classification.
-- **Core Stacks**: Python, ML, Google Gemini API, WebSockets.
-
-### 📊 [Trueview](https://github.com/Desapphire/TrueView)
-**Social Media Data Collection & NLP Pipeline.**
-Sentiment analysis system designed to extract textual data from Reddit, process it through NLP models, and visualize emotional trends.
-- **Core Stacks**: Python, NLTK/Spacy, Reddit API (PRAW).
-
-### 🌐 [Nexora](https://github.com/Desapphire/Nexora)
-**Modern Social Media Platform with AI Features.**
-A feature-rich social platform with OCR text extraction, GridFS-based large file management, and real-time engagement analytics.
-- **Core Stacks**: React, Node.js, MongoDB (GridFS), Tesseract.js, TailwindCSS.
-- **Key Feature**: Native OCR integration and multi-format file support.
-
----
-
-## 🛠️ Technical Arsenal
+## ◈ INTELLIGENCE // ANALYTICS
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Desapphire&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desapphire&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="TopLangs" />
 </div>
 
----
+<br />
 
-## 📊 Ecosystem Statistics
+## ◈ TECHNICAL_ARSENAL
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Desapphire&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desapphire&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Node.js-313131?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/React-313131?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-313131?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/TensorFlow-313131?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Google_Gemini-313131?style=for-the-badge&logo=google&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/Ethereum-313131?style=for-the-badge&logo=ethereum&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-313131?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Tailwind-313131?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
 </div>
 
+<br />
+
 ---
 
 <div align="center">
-  <h3>Connect with the Future</h3>
-  <p>Building something monumental? Reach out to us.</p>
+  <h3>// CONNECT_ESTABLISHED</h3>
+  <p>Exploring the frontiers of decentralized tech.</p>
   <a href="mailto:contact@desapphire.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/MAIL_SERVER-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
----
+<br />
+
 <div align="center">
-  <p><i>&copy; 2026 Desapphire Engineering Team.</i></p>
+  <code>DESAPPHIRE_OS v1.0.4 // REGION: GLOBAL_WEST // LATENCY: 22ms</code>
 </div>
