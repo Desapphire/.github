@@ -66,15 +66,26 @@
 
 ## ◈ TECHNICAL ARSENAL
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-313131?style=flat-square&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/React-313131?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-313131?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/FastAPI-313131?style=flat-square&logo=fastapi&logoColor=05998B" />
-  <img src="https://img.shields.io/badge/Go-313131?style=flat-square&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Ethereum-313131?style=flat-square&logo=ethereum" />
-  <img src="https://img.shields.io/badge/MongoDB-313131?style=flat-square&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-313131?style=flat-square&logo=scikit-learn&logoColor=F7931E" />
+<div align="center">
+  <h3>Languages & Core</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <br />
+  
+  <h3>Frameworks & Intelligence</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <br />
+  
+  <h3>Infrastructure & Data</h3>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <br />
